@@ -1,17 +1,16 @@
 My Associate id:
-845142
+845162
 Other team members:
-845161,845160,845162
+845161,845160,845142
 TeamLead:
 845161
 My Role in team:
-1.To develop validataion
+1.UI
 My development files:
-1.javascript.js
+1.Index.html
 I was strong in:
-1.Javascript Validation
+1.HTML,CSS
 I was weak in:
-1.HTML
-2.CSS
+1.Javascript validations
 Feedback:
 1.able to read codesprint document 1 day in advance will help.
